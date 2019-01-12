@@ -1,6 +1,6 @@
 # Adversarial attack & defence
 
-This example try adversarial attack & defence.
+We try adversarial attack & defence in this example.
 
 implement the following functions on MNIST dataset:
 
