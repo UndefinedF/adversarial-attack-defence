@@ -1,4 +1,4 @@
-Adversarial attack & defense
+# Adversarial attack & defense
 
 This example is about adversarial attack & defense.
 
@@ -8,17 +8,19 @@ implement the following functions on MNIST dataset:
 2. Try targeted-attack / non-targeted attack on MNIST
 3. Denoise the adversarial examples (Denoise autocoder/autocoder)
 
-Setup 
+## Setup 
 
 1. Clone the repository
 
-    git clone https://github.com/UndefinedF/adversarial-attack-defense.git
+```
+git clone https://github.com/UndefinedF/adversarial-attack-defense.git
+```
 
-1. Make sure that you have Jupyter Notebook and tensorflow installed
+2. Make sure that you have Jupyter Notebook and tensorflow installed
 
- 
+## 
 
-Running
+## Running
 
 Here is the guidance:
 
@@ -30,10 +32,10 @@ Here is the guidance:
 
 
 
-Reference
+## Reference
 
- Intriguing Properties of Neural Networks
+ [Intriguing Properties of Neural Networks](http://arxiv.org/abs/1312.6199)
 
-Explaining and Harnessing Adversarial Examples
+[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 
 https://github.com/divyam3897/adversarial-examples
